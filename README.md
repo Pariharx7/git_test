@@ -4,4 +4,4 @@ Hello Odin!
 Hello World!
 
 ## Description
-This repository was made while learnt the GitHub Tutorial on [The Odin Project](https://www.theodinproject.com)
+This repository was made while learning the GitHub Tutorial on [The Odin Project](https://www.theodinproject.com)
